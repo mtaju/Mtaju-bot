@@ -2,7 +2,7 @@
     "name": "QR/Pair code-md",
     "description": "I'm Web QR by mtaju groups",
     "logo": "https://telegra.ph/file/cd0ec9c4512dfb4555436.jpg",
-    "repository": "https://github.com/Lazack28/mtaju-bots",
+    "repository": "https://github.com/Lazack28/Mtaju-bots",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
