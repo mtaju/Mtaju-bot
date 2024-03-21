@@ -1,7 +1,7 @@
 {
     "name": "QR/Pair code-md",
     "description": "I'm Web QR by mtaju groups",
-    "logo": "https://i.ibb.co/HtT3vjm/goku-gif-3.gif",
+    "logo": "https://telegra.ph/file/cd0ec9c4512dfb4555436.jpg",
     "repository": "https://github.com/Lazack28/mtaju-bots",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "",
+        "value": "hello this is youre session id and join here https://chat.whatsapp.com/CX3mGQf5zJt4iYyIC3Ato8",
         "required": false 
       }
     }   
