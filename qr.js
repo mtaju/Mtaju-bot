@@ -56,7 +56,7 @@ router.get('/', async (req, res) => {
 					let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
 					await delay(800);
 				   let b64data = Buffer.from(data).toString('base64');
-				   let session = await Qr_Code_By_Mtaju_Grp.sendMessage(Qr_Code_By_Venocyber_Tech.user.id, { text: '' + b64data });
+				   let session = await Qr_Code_By_Mtaju_Grp.sendMessage(Qr_Code_By_Mtaju_Grp.user.id, { text: '' + b64data });
 	
 				   let MTAJU_BOTS_TEXT = `
 :*_Qr Code By Lazack 28_*
