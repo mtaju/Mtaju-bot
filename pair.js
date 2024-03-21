@@ -56,24 +56,26 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Mtaju_Grp.sendMessage(Pair_Code_By_Mtaju_Grp.user.id, { text: 'mtaju' + b64data });
 
                let MTAJU_BOTS_TEXT = `
-*_Pair Code Connected by Venocyber Tech_*
-*_Made With 🤍_*
+:*_Qr Code By Lazack 28_*
+:*_Mr Mtaju the boss_*
 ______________________________________
-╔════◇
-║ *『 WOW YOU CHOOSEN VENOCYBER-MD 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
-╚══════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@JASTINMTEWA-vn9pl_
-║❒ *Owner:* _https://wa.me/message/MSSH2UWWOQBDL1_
-║❒ *Repo:* _https://github.com/Kingjux/venocyber-md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ *Plugins:* _https://github.com/Kingjux/venocyber-md-plugins_
-╚══════════════════════╝ 
+: *_Pair Code Connected by MTAJU BOTS_*
+: *_Lazack 28 made this_*
+______________________________________
+════◇
+| *『 YO HAVE SCANNED SESSION ID OF MTAJU BOTS』*
+| _This is used both in all mtaju's bot join the groups._
+•••••••••••••••••••••••••••
+════◇
+|  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+|❒ *Group:* https://chat.whatsapp.com/CX3mGQf5zJt4iYyIC3Ato8
+|❒ *Master:* _https://wa.me/message/S4444FEFY35KH1
+|❒ *Repo:* _https://github.com/Lazack28_
+|❒ *Group 1:* _https://chat.whatsapp.com/KYmevXcP6Ki89fpqbQHoEf_
+|❒ *Group 2:* _https://chat.whatsapp.com/CX3mGQf5zJt4iYyIC3Ato8_
+|❒ *channel:* _https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x_
+•••••••••••••••••••••••••••••
 _____________________________________
-
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Mtaju_Grp.sendMessage(Pair_Code_By_Mtaju_Grp.user.id,{text:MTAJU_TEXT},{quoted:session})
 
